@@ -1,7 +1,7 @@
 // tsconfig.json
 {
-    "compilerOptions": {
-      "lib": [ "es2015" ],
-      "target": "es5"
-    }
+  "compilerOptions": {
+    "lib": [ "es7" ],
+    "target": "es6"
+  }
 }
