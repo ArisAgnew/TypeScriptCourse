@@ -1,5 +1,6 @@
 # JS files
 *.js
+/*.js
 
 # Logs
 logs
