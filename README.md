@@ -24,5 +24,6 @@
 - Практика [День 3](day3.md)
 - Практика [День 4](day4.md)
 - Практика [День 5](day5.md)
+- Практика [День 6](day6.md)
 
 **Для синхронизации вашего форка репозитория** используйте  [данный гайд](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
